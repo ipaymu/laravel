@@ -1,5 +1,5 @@
 {
-    "name": "ipaymu/laravel",
+    "name": "ipaymuV2/laravel",
     "description": "package ipaymu v2",
     "type": "library",
     "license": "MIT",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Ipaymu\\Laravel\\": "src/"
+            "IpaymuV2\\Laravel\\": "src/"
         }
     }
 }
