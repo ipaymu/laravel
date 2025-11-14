@@ -15,3 +15,16 @@ composer require ipaymu-v2/laravel
 ## Lisensi
 
 Paket ini dilisensikan di bawah lisensi MIT.
+
+## Konfigurasi
+
+Untuk menggunakan paket ini, tambahkan variabel lingkungan berikut ke file `.env` aplikasi Laravel Anda:
+
+```
+IPAYMU_HOST=
+IPAYMU_VA=
+IPAYMU_SECRET=
+```
+
+Pastikan untuk mengganti nilai-nilai ini dengan kredensial iPaymu Anda yang sebenarnya.
+
