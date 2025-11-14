@@ -1,0 +1,21 @@
+{
+    "name": "ipaymu/laravel",
+    "description": "package ipaymu v2",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "syaifudin",
+            "email": "syaifudin@ipaymu.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ipaymu\\Laravel\\": "src/"
+        }
+    }
+}
